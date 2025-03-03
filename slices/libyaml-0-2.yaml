@@ -11,4 +11,5 @@ slices:
       /usr/lib/*-linux-*/libyaml-0.so.2*:
   copyright:
     contents:
+      /usr/share/doc/libyaml-0-2/:
       /usr/share/doc/libyaml-0-2/copyright:
